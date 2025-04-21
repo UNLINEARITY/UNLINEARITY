@@ -1,13 +1,17 @@
-Hi👋 , I’m UNLINEARITY , a student majoring in Control Engineering in China University of Petroleum
+## Hi there 👋 I'm UNLINEARITY!
 
-I have a keen interest in **mathematics**,**control theory**, **computer science**, **machine learning**, **systems science** and so on......🚀
+I'm a Control Engineering student at China University of Petroleum. I’m passionate about **mathematics**, **control theory**, **computer science**, **machine learning**, and **systems science** — anything that helps make complex things understandable and beautiful. 🚀
 
-Recently, I have been working on building a knowledge base that primarily presents information through bidirectional links and relational graphs. 
+### 🔍 What I'm working on
+Currently, I'm building a knowledge base designed to present information through **bidirectional links** and **relational graphs**. The goal is to make learning more intuitive, interconnected, and nonlinear — just like how knowledge really works.
 
-If you are interested in my project, you can visit this [repository](https://github.com/UNLINEARITY/Learn-for-Everything) or [wedsite](https://www.unlinearity.top/) to have a look.
+You can explore the project here:
 
-(However, due to time and capability constraints, the website currently only supports display in Chinese.)
+- 📦 [GitHub Repository](https://github.com/UNLINEARITY/Learn-Everything)  
+- 🌐 [Project Website](https://www.unlinearity.top/) *(Note: currently only available in Chinese)*
 
-If you are interested, you are welcome to contact me at any time, or even join in to contribute to this project together.💕
+### 🤝 Get in touch
+If the project interests you, feel free to **reach out**, **connect**, or even **collaborate** — I’d love to hear from you! 💕
+
 
 
