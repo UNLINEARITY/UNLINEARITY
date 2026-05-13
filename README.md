@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=4000&pause=1000&color=1DD3F7&center=true&vCenter=true&width=600&height=60&lines=%22History+never+repeats+itself%2C+but+it+always+rhymes.%22;%E2%80%9C%E5%8E%86%E5%8F%B2%E4%BB%8E%E4%B8%8D%E9%87%8D%E5%A4%8D%EF%BC%8C%E4%BD%86%E6%80%BB%E6%98%AF%E5%8E%8B%E7%9D%80%E9%9F%B5%E8%84%9A%E2%80%9D)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/UNLINEARITY?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/UNLINEARITY)
+
 [![GitHub stars](https://img.shields.io/github/stars/UNLINEARITY?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/UNLINEARITY)
 
 </div>
@@ -28,9 +29,3 @@ I'm building a nonlinear knowledge system around **bidirectional links** and **r
 ## Get In Touch
 
 If the project interests you, feel free to reach out, connect, or collaborate. I would be glad to hear from you.
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/UNLINEARITY/UNLINEARITY/output/github-contribution-grid-snake-dark.svg)
-
-</div>
