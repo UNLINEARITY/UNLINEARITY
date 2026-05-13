@@ -2,7 +2,7 @@
 
 ## Hi there I'm UNLINEARITY 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=4000&pause=1000&color=1DD3F7&center=true&vCenter=true&width=600&height=60&lines=%E2%80%9CHistory+never+repeats+itself%2C+but+it+always+rhymes.%E2%80%9D;%E2%80%9C%E5%8E%86%E5%8F%B2%E4%BB%8E%E4%B8%8D%E9%87%8D%E5%A4%8D%EF%BC%8C%E4%BD%86%E6%80%BB%E6%98%AF%E6%8A%BC%E7%9D%80%E9%9F%B5%E8%84%9A%E3%80%82%E2%80%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=4000&pause=1000&color=1DD3F7&center=true&vCenter=true&width=600&height=60&lines=%22History+does+not+repeat+itself%2C+but+it+often+rhymes.%22;%E2%80%9C%E5%8E%86%E5%8F%B2%E4%B8%8D%E4%BC%9A%E7%AE%80%E5%8D%95%E5%9C%B0%E9%87%8D%E5%A4%8D%EF%BC%8C%E4%BD%86%E5%B8%B8%E5%B8%B8%E6%8A%BC%E7%9D%80%E7%9B%B8%E4%BC%BC%E7%9A%84%E9%9F%B5%E8%84%9A%E3%80%82%E2%80%9D)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/unlinearity?label=Followers&logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/UNLINEARITY)
 [![GitHub stars](https://img.shields.io/github/stars/unlinearity?label=Stars&style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/UNLINEARITY)
